@@ -1,0 +1,105 @@
+relation, head-pos, child-pos
+Person
+('subj', 'VERB', 'PRON') Almost Always Agree
+('conj', 'VERB', 'VERB') Sometimes agree
+('parataxis', 'VERB', 'VERB') need not agree
+('comp:obj', 'VERB', 'PRON') need not agree
+('comp:obl', 'VERB', 'PRON') need not agree
+('subj', 'AUX', 'PRON') Almost Always Agree
+('comp:obj', 'VERB', 'VERB') need not agree
+('conj', 'VERB', 'AUX') Almost Always Agree
+('udep', 'VERB', 'PRON') need not agree
+('conj', 'AUX', 'VERB') Sometimes agree
+('subj@pass', 'VERB', 'PRON') Almost Always Agree
+('comp:pred', 'VERB', 'VERB') need not agree
+('mod', 'VERB', 'VERB') need not agree
+('parataxis', 'AUX', 'VERB') need not agree
+('conj', 'AUX', 'AUX') Sometimes agree
+('subj', 'VERB', 'VERB') need not agree
+('subj@pass', 'AUX', 'PRON') Almost Always Agree
+('conj', 'PRON', 'PRON') need not agree
+('parataxis', 'VERB', 'AUX') need not agree
+('orphan', 'PRON', 'PRON') need not agree
+Tense
+('conj', 'VERB', 'VERB') Almost Always Agree
+('parataxis', 'VERB', 'VERB') need not agree
+('mod', 'VERB', 'VERB') need not agree
+('comp:aux@pass', 'AUX', 'VERB') need not agree
+('conj', 'AUX', 'VERB') Sometimes agree
+('conj', 'VERB', 'AUX') Sometimes agree
+('comp:obj', 'VERB', 'VERB') need not agree
+('parataxis', 'AUX', 'VERB') need not agree
+('comp:pred', 'VERB', 'VERB') need not agree
+('subj', 'VERB', 'VERB') Sometimes agree
+('parataxis', 'VERB', 'AUX') need not agree
+('conj', 'AUX', 'AUX') Almost Always Agree
+('mod', 'AUX', 'VERB') need not agree
+('udep', 'VERB', 'AUX') need not agree
+('subj', 'AUX', 'VERB') need not agree
+('appos', 'VERB', 'VERB') Almost Always Agree
+('parataxis', 'AUX', 'AUX') Sometimes agree
+('comp:pred', 'AUX', 'VERB') need not agree
+('mod', 'VERB', 'AUX') need not agree
+('flat', 'VERB', 'VERB') Almost Always Agree
+Case
+('mod', 'NOUN', 'ADJ') Almost Always Agree
+('mod', 'NOUN', 'NOUN') need not agree
+('det', 'NOUN', 'DET') Almost Always Agree
+('conj', 'NOUN', 'NOUN') Almost Always Agree
+('mod', 'NOUN', 'VERB') Almost Always Agree
+('mod', 'NOUN', 'PROPN') need not agree
+('flat@name', 'PROPN', 'PROPN') Sometimes agree
+('appos', 'NOUN', 'PROPN') Almost Always Agree
+('conj', 'ADJ', 'ADJ') Almost Always Agree
+('mod@gov', 'NOUN', 'NUM') Almost Always Agree
+('appos', 'NOUN', 'NOUN') Sometimes agree
+('conj', 'PROPN', 'PROPN') Almost Always Agree
+('mod', 'NOUN', 'PRON') need not agree
+('udep', 'VERB', 'NOUN') need not agree
+('mod', 'PROPN', 'ADJ') Almost Always Agree
+('mod', 'NOUN', 'NUM') Almost Always Agree
+('parataxis', 'NOUN', 'NOUN') Sometimes agree
+('subj', 'NOUN', 'PRON') Almost Always Agree
+('subj', 'NOUN', 'NOUN') Almost Always Agree
+Number
+('mod', 'NOUN', 'ADJ') Almost Always Agree
+('mod', 'NOUN', 'NOUN') need not agree
+('subj', 'VERB', 'NOUN') Almost Always Agree
+('det', 'NOUN', 'DET') Almost Always Agree
+('conj', 'NOUN', 'NOUN') need not agree
+('comp:obj', 'VERB', 'NOUN') need not agree
+('conj', 'VERB', 'VERB') Almost Always Agree
+('subj', 'VERB', 'PRON') Almost Always Agree
+('mod', 'NOUN', 'VERB') Almost Always Agree
+('udep', 'VERB', 'NOUN') need not agree
+('mod', 'NOUN', 'PROPN') need not agree
+('flat@name', 'PROPN', 'PROPN') Almost Always Agree
+('subj', 'VERB', 'PROPN') Almost Always Agree
+('mod@relcl', 'NOUN', 'VERB') Almost Always Agree
+('subj@pass', 'VERB', 'NOUN') Almost Always Agree
+('appos', 'NOUN', 'PROPN') Almost Always Agree
+('conj', 'ADJ', 'ADJ') Almost Always Agree
+('subj', 'ADJ', 'NOUN') Almost Always Agree
+('parataxis', 'VERB', 'VERB') need not agree
+('comp:obj', 'VERB', 'PRON') need not agree
+Gender
+('mod', 'NOUN', 'NOUN') need not agree
+('mod', 'NOUN', 'ADJ') Almost Always Agree
+('conj', 'NOUN', 'NOUN') need not agree
+('det', 'NOUN', 'DET') Almost Always Agree
+('subj', 'VERB', 'NOUN') Almost Always Agree
+('mod', 'NOUN', 'PROPN') need not agree
+('mod', 'NOUN', 'VERB') Almost Always Agree
+('comp:obj', 'VERB', 'NOUN') need not agree
+('flat@name', 'PROPN', 'PROPN') Sometimes agree
+('appos', 'NOUN', 'PROPN') need not agree
+('udep', 'VERB', 'NOUN') need not agree
+('conj', 'VERB', 'VERB') Almost Always Agree
+('subj', 'VERB', 'PRON') Almost Always Agree
+('subj', 'VERB', 'PROPN') Almost Always Agree
+('conj', 'ADJ', 'ADJ') Almost Always Agree
+('subj', 'ADJ', 'NOUN') Almost Always Agree
+('appos', 'NOUN', 'NOUN') need not agree
+('conj', 'PROPN', 'PROPN') need not agree
+('subj@pass', 'VERB', 'NOUN') Almost Always Agree
+('parataxis', 'NOUN', 'NOUN') need not agree

@@ -1,0 +1,135 @@
+/* color scheme: 122a3e, 5e778d, f0f1cf, f2c164, db4442 */
+
+body {
+  font-family: 'Roboto Slab', sans-serif;
+  font-weight: 300;
+  -webkit-text-size-adjust: 100%;
+  background-image: url("images/web.png");
+}
+
+h1 { font-weight: 400; }
+h2 { font-weight: 300; }
+h3 { font-weight: 200; }
+h4 { font-weight: 100; }
+li{list-style: none;}
+.news li {list-style: circle;}
+
+a { text-decoration: none; border-bottom: dotted 1px; }
+a:visited { color: #5e778d; }
+a:link { color: #122a3e; }
+a.covert { border: none; }
+
+.research table {
+  font-family: 'Roboto Slab', sans-serif;
+  -webkit-text-size-adjust: 100%;
+  font-weight: 300;
+}
+
+.bibtex {
+  overflow-x: scroll;
+}
+.research th {vertical-align: top; margin-top: 5px; max-width: 100px; padding-top:0px;}
+.research td {font-weight: normal; max-width: 500px;}
+/* .research li {padding-top: 10px; padding-bottom: 0px;}
+.research .rheader {float: left; position:relative; top:-10px; left:-40px;} */
+
+div.sidebar { width: 200px; float: left; vertical-align: top; margin-left: 50px; }
+div.main { vertical-align: top; margin-left: 300px; margin-right: 50px; }
+div.bigmain { margin-left: 50px; margin-right: 50px; }
+
+div.picture { margin: 15px 0; }
+div.contact { font-size: 16px; }
+div.name { }
+
+.contact dt { margin-top: 20px; color: #2980b9; }
+.contact dd { margin-left: 0 5;}
+
+.column {
+  float: left;
+  width: 45%;
+  padding: 2px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+@media all and (min-width: 960px) {
+  div#main { width: 960px; margin: 35px auto; }
+  div.main { width: 960px; margin: 35px auto; }
+  div#people { display: inline-block; vertical-align: top; width: 310px; }
+  div#projects { display: inline-block; vertical-align: top; width: 640px; }
+  div#footer { width: 950px; }
+  .event .date { font-weight: 100; display: inline-block; vertical-align: top; width: 120px; }
+  .event .desc { display: inline-block; vertical-align: top; width: 830px; }
+}
+
+@media all and (min-width: 640px) and (max-width: 959px) {
+  div#ndbrandbar ul { width: 630px !important; }
+  div#main { width: 640px; margin: 35px auto; }
+  div#people { display: inline-block; vertical-align: top; width: 310px; }
+  div#projects { display: inline-block; vertical-align: top; width: 320px; }
+  div#footer { width: 630px; }
+  .event .date { font-weight: 100; display: inline-block; vertical-align: top; width: 120px; }
+  .event .desc { display: inline-block; vertical-align: top; width: 510px; }
+}
+
+@media all and (max-width: 639px) {
+  div#ndbrandbar ul { width: 310px !important; }
+  div#main { width: 320px; margin: 35px auto; }
+  div#people { width: 310px; }
+  div#projects { width: 320px; }
+  div#footer { width: 310px; }
+  .event .date { font-weight: 100; }
+  .event .desc { }
+}
+
+div#overview { margin: 5 5px;}
+img#pphoto{width: 230px; float: left; left:0; right:5; top:0; -webkit-border-radius: 4px; border-radius: 4px; -moz-border-radius: 4px; padding-bottom: 30;}
+.school{width:50px; float: right; -webkit-border-radius: 4px; border-radius: 4px; -moz-border-radius: 4px; }
+/* People */
+
+pre { overflow-x: scroll; }
+
+ul.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightseagreen;
+}
+
+li.nav {
+  float: left;
+}
+
+li.nav a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size:20px;
+}
+
+li.nav a:hover {
+  background-color: orange  ;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}

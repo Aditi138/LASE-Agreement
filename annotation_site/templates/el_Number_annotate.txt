@@ -1,0 +1,21 @@
+Number: Rules in the order of relation,head-pos,child-pos: Label each rule with AGREE, SOMETIMES-AGREE, NA
+Relation = det; Head-POS = NOUN; Child-POS = DET
+Relation = mod; Head-POS = NOUN; Child-POS = ADJ
+Relation = mod; Head-POS = NOUN; Child-POS = NOUN
+Relation = comp:obj; Head-POS = VERB; Child-POS = NOUN
+Relation = det; Head-POS = PROPN; Child-POS = DET
+Relation = subj; Head-POS = VERB; Child-POS = NOUN
+Relation = conj; Head-POS = NOUN; Child-POS = NOUN
+Relation = mod; Head-POS = NOUN; Child-POS = PRON
+Relation = mod@relcl; Head-POS = NOUN; Child-POS = VERB
+Relation = det; Head-POS = NOUN; Child-POS = PRON
+Relation = mod; Head-POS = NOUN; Child-POS = PROPN
+Relation = subj; Head-POS = VERB; Child-POS = PRON
+Relation = det; Head-POS = PRON; Child-POS = DET
+Relation = comp:obj; Head-POS = VERB; Child-POS = PRON
+Relation = conj; Head-POS = VERB; Child-POS = VERB
+Relation = mod; Head-POS = NOUN; Child-POS = NUM
+Relation = subj; Head-POS = AUX; Child-POS = NOUN
+Relation = comp:pred; Head-POS = AUX; Child-POS = ADJ
+Relation = det; Head-POS = ADJ; Child-POS = DET
+Relation = subj@pass; Head-POS = VERB; Child-POS = NOUN

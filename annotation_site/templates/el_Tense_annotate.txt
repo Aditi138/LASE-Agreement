@@ -1,0 +1,18 @@
+Tense: Rules in the order of relation,head-pos,child-pos: Label each rule with AGREE, SOMETIMES-AGREE, NA
+Relation = conj; Head-POS = VERB; Child-POS = VERB
+Relation = mod; Head-POS = VERB; Child-POS = VERB
+Relation = conj; Head-POS = VERB; Child-POS = AUX
+Relation = conj; Head-POS = AUX; Child-POS = VERB
+Relation = parataxis; Head-POS = VERB; Child-POS = VERB
+Relation = mod; Head-POS = AUX; Child-POS = VERB
+Relation = parataxis; Head-POS = AUX; Child-POS = VERB
+Relation = conj; Head-POS = AUX; Child-POS = AUX
+Relation = comp:obj; Head-POS = VERB; Child-POS = AUX
+Relation = comp:obj; Head-POS = VERB; Child-POS = VERB
+Relation = parataxis; Head-POS = VERB; Child-POS = AUX
+Relation = mod@relcl; Head-POS = VERB; Child-POS = VERB
+Relation = subj@pass; Head-POS = VERB; Child-POS = AUX
+Relation = comp:pred; Head-POS = AUX; Child-POS = VERB
+Relation = subj; Head-POS = AUX; Child-POS = VERB
+Relation = comp:aux; Head-POS = AUX; Child-POS = AUX
+Relation = subj@pass; Head-POS = VERB; Child-POS = VERB

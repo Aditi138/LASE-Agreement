@@ -1,0 +1,12 @@
+testall, 14125, el_gdt, Gender, 0.6382978723404256
+devall, 14125, el_gdt, Gender, 0.7441860465116279
+testall, 1259, el_gdt, Person, 0.6666666666666666
+devall, 1259, el_gdt, Person, 0.6666666666666666
+testall, 19192, el_gdt, Number, 0.6272727272727273
+devall, 19192, el_gdt, Number, 0.6153846153846154
+testall, 379, el_gdt, Tense, 0.6
+devall, 379, el_gdt, Tense, 0.46153846153846156
+testall, 406, el_gdt, Mood, 0.0
+devall, 406, el_gdt, Mood, 0.0
+testall, 14125, el_gdt, Case, 0.8085106382978723
+devall, 14125, el_gdt, Case, 0.813953488372093

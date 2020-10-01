@@ -1,0 +1,21 @@
+Gender: Rules in the order of relation,head-pos,child-pos: Label each rule with AGREE, SOMETIMES-AGREE, NA
+Relation = det; Head-POS = NOUN; Child-POS = DET
+Relation = mod; Head-POS = NOUN; Child-POS = ADJ
+Relation = mod; Head-POS = NOUN; Child-POS = NOUN
+Relation = det; Head-POS = PROPN; Child-POS = DET
+Relation = conj; Head-POS = NOUN; Child-POS = NOUN
+Relation = mod; Head-POS = NOUN; Child-POS = PRON
+Relation = det; Head-POS = NOUN; Child-POS = PRON
+Relation = mod; Head-POS = NOUN; Child-POS = PROPN
+Relation = det; Head-POS = PRON; Child-POS = DET
+Relation = mod; Head-POS = NOUN; Child-POS = NUM
+Relation = det; Head-POS = ADJ; Child-POS = DET
+Relation = mod; Head-POS = PROPN; Child-POS = ADJ
+Relation = conj; Head-POS = ADJ; Child-POS = ADJ
+Relation = conj; Head-POS = PROPN; Child-POS = PROPN
+Relation = flat; Head-POS = PROPN; Child-POS = PROPN
+Relation = flat; Head-POS = NOUN; Child-POS = PROPN
+Relation = mod; Head-POS = NOUN; Child-POS = VERB
+Relation = appos; Head-POS = NOUN; Child-POS = NOUN
+Relation = appos; Head-POS = NOUN; Child-POS = PROPN
+Relation = det; Head-POS = NUM; Child-POS = DET

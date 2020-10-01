@@ -1,0 +1,102 @@
+relation, head-pos, child-pos
+Tense
+('comp:aux', 'AUX', 'VERB') Almost Always Agree
+('conj', 'AUX', 'AUX') need not agree
+('conj', 'VERB', 'VERB') need not agree
+('comp:aux', 'AUX', 'AUX') Almost Always Agree
+('conj', 'VERB', 'AUX') need not agree
+('mod', 'AUX', 'AUX') need not agree
+('mod', 'AUX', 'VERB') need not agree
+('comp:obj', 'VERB', 'VERB') need not agree
+('comp:obj', 'VERB', 'AUX') need not agree
+('mod', 'VERB', 'AUX') need not agree
+('subj', 'AUX', 'VERB') need not agree
+('comp:pred', 'VERB', 'AUX') need not agree
+('comp:obj', 'AUX', 'VERB') need not agree
+('subj', 'AUX', 'AUX') need not agree
+('subj', 'VERB', 'VERB') need not agree
+('parataxis', 'VERB', 'VERB') need not agree
+('comp:pred', 'AUX', 'VERB') need not agree
+('parataxis', 'AUX', 'VERB') need not agree
+Gender
+('det', 'NOUN', 'DET') Almost Always Agree
+('mod', 'NOUN', 'ADJ') Almost Always Agree
+('conj', 'NOUN', 'NOUN') Almost Always Agree
+('comp:obj', 'VERB', 'NOUN') need not agree
+('appos', 'NOUN', 'NOUN') Almost Always Agree
+('det', 'DET', 'DET') Almost Always Agree
+('mod', 'NOUN', 'NUM') need not agree
+('conj', 'ADJ', 'ADJ') Almost Always Agree
+('det', 'ADJ', 'DET') Almost Always Agree
+('comp:aux', 'AUX', 'VERB') Sometimes agree
+('mod', 'DET', 'NUM') Sometimes agree
+('det', 'PRON', 'DET') Almost Always Agree
+('comp:obj', 'VERB', 'ADJ') need not agree
+('mod', 'NOUN', 'NOUN') need not agree
+('comp:pred', 'AUX', 'NOUN') need not agree
+('comp:obj', 'VERB', 'PRON') Sometimes agree
+('det', 'VERB', 'DET') need not agree
+('mod', 'ADJ', 'ADJ') Almost Always Agree
+('udep', 'VERB', 'NOUN') need not agree
+('comp:pred', 'AUX', 'ADJ') need not agree
+Person
+('comp:obj', 'VERB', 'PRON') Sometimes agree
+('conj', 'AUX', 'AUX') Almost Always Agree
+('conj', 'VERB', 'VERB') Almost Always Agree
+('conj', 'AUX', 'VERB') Almost Always Agree
+('conj', 'VERB', 'AUX') Sometimes agree
+('comp:obl', 'VERB', 'PRON') Sometimes agree
+('comp@pass', 'VERB', 'PRON') Almost Always Agree
+('mod', 'AUX', 'AUX') need not agree
+('mod', 'VERB', 'VERB') need not agree
+('mod', 'AUX', 'VERB') need not agree
+('subj', 'VERB', 'PRON') Almost Always Agree
+('comp@pass', 'AUX', 'PRON') Almost Always Agree
+('udep', 'VERB', 'PRON') need not agree
+('subj', 'AUX', 'PRON') Almost Always Agree
+('comp:obj', 'VERB', 'VERB') need not agree
+('comp:obj', 'VERB', 'AUX') need not agree
+('udep', 'AUX', 'PRON') need not agree
+('mod', 'VERB', 'AUX') need not agree
+('subj', 'AUX', 'VERB') need not agree
+('comp:obj', 'AUX', 'VERB') Almost Always Agree
+Number
+('det', 'NOUN', 'DET') Almost Always Agree
+('mod', 'NOUN', 'ADJ') Almost Always Agree
+('comp:obj', 'VERB', 'NOUN') need not agree
+('subj', 'VERB', 'NOUN') Almost Always Agree
+('comp:aux', 'AUX', 'VERB') need not agree
+('conj', 'NOUN', 'NOUN') need not agree
+('mod', 'NOUN', 'VERB') Sometimes agree
+('mod', 'NOUN', 'AUX') Sometimes agree
+('appos', 'NOUN', 'NOUN') Sometimes agree
+('comp:pred', 'AUX', 'ADJ') Almost Always Agree
+('mod', 'NOUN', 'NUM') Almost Always Agree
+('comp:pred', 'AUX', 'NOUN') Almost Always Agree
+('comp:obj', 'VERB', 'PRON') need not agree
+('conj', 'AUX', 'AUX') need not agree
+('det', 'DET', 'DET') Almost Always Agree
+('conj', 'VERB', 'VERB') need not agree
+('conj', 'ADJ', 'ADJ') Almost Always Agree
+('det', 'PRON', 'DET') Almost Always Agree
+('comp:aux', 'AUX', 'AUX') need not agree
+Mood
+('conj', 'AUX', 'AUX') Almost Always Agree
+('conj', 'VERB', 'VERB') Almost Always Agree
+('conj', 'AUX', 'VERB') Almost Always Agree
+('conj', 'VERB', 'AUX') Almost Always Agree
+('mod', 'AUX', 'AUX') Almost Always Agree
+('mod', 'VERB', 'VERB') need not agree
+('mod', 'AUX', 'VERB') need not agree
+('comp:obj', 'VERB', 'VERB') need not agree
+('comp:obj', 'VERB', 'AUX') need not agree
+('mod', 'VERB', 'AUX') need not agree
+('subj', 'AUX', 'VERB') need not agree
+('comp:obj', 'AUX', 'VERB') need not agree
+('comp:aux', 'AUX', 'AUX') need not agree
+('subj', 'AUX', 'AUX') need not agree
+('subj', 'VERB', 'VERB') need not agree
+('comp:pred', 'VERB', 'AUX') need not agree
+('parataxis', 'VERB', 'VERB') need not agree
+('parataxis', 'AUX', 'VERB') need not agree
+('parataxis', 'VERB', 'AUX') need not agree
