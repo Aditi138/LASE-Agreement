@@ -1,7 +1,7 @@
 # LASE: Automated Extraction of Agreement Rules
 
 ## Requirements
-A python version >=3.5 is required. Additional requirements are present in the requirements.txt
+A python version >=3.5 is required. Additional requirements are present in the **requirements.txt**
 
 1. In the **decision_tree_files.txt**, enter the path to the treebanks for which you want to extract the rules. This code can work with UD/SUD dependency (v2.5) treebanks.
 To download all the SUD treebanks: https://surfacesyntacticud.github.io/data/
