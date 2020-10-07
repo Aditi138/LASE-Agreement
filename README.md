@@ -62,3 +62,15 @@ After annotation, the pickle files will be stored with the annotations.
 
 We release the annotation results under **annotation_site/**.
 
+
+## Citing
+If you make use of this software for research purposes, we will appreciate citing the following: 
+``` @inproceedings{chaudhary20emnlp,
+                   title = {Automatic Extraction of Rules Governing Morphological Agreement},
+                   author = {Aditi Chaudhary and Antonios Anastasopoulos and Adithya Pratapa and David R. Mortensen and Zaid Sheikh and Yulia Tsvetkov and Graham Neubig},
+                   booktitle = {Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+                   address = {Online},
+                   month = {November},
+                   year = {2020}}
+```
+
